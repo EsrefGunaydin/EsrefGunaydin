@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EsrefGunaydin
-- 👀 I’m interested in new job opportunities
-- 🌱 I’m currently learning new technologies
+- 👀 I’m working as a Full Stack Engineer
+- 🌱 I’m constantly learning new technologies
 - 💞️ I’m looking to collaborate on react, react native, express, nodejs so on
 - 📫 How to reach me: esrefgunaydin@gmail.com
 
